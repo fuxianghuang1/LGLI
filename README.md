@@ -77,11 +77,10 @@ data/fashion200k/test_queries.txt`
 
 For training and testing new models, pass the appropriate arguments. 
 
-For instance, for training LGLI model on Fashion200k dataset run the following command:
+For instance, for training LGLI model on CSS3D dataset run the following command:
 
 ```
-python   main.py --dataset=fashion200k --dataset_path=../data/fashion200k/  --model=LGLI --loss=batch_based_classification --learning_rate_decay_frequency=50000 --num_iters=160000 --use_complete_text_query True  
-```
+python   main.py --dataset=css3d --dataset_path=../data/CSS3D/  --model=LGLI --loss=batch_based_classification
 
 
 
