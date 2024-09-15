@@ -1,23 +1,19 @@
-# Language Guided Local Infiltration for Interactive Image Retrieval - Accepted at CVPR Workshop 2023
+# [CVPR2023W/IMW] LGLI: Language Guided Local Infiltration for Interactive Image Retrieval
+
 - The paper can be accessed at [CVPR2023W/IMW](https://openaccess.thecvf.com/content/CVPR2023W/IMW/papers/Huang_Language_Guided_Local_Infiltration_for_Interactive_Image_Retrieval_CVPRW_2023_paper.pdf)
 
 
 If you find this code useful in your research then please cite
 
-
-'''
+```bibtex
 
 @inproceedings{LGLI2023,
-
     author    = {Huang, Fuxiang and Zhang, Lei},
-	
     title     = {Language Guided Local Infiltration for Interactive Image Retrieval},
-	
     booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops},
-	
     year      = {2023},
 }
-'''
+```
 
 
 ## Abstract
